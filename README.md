@@ -8,4 +8,11 @@ A empresa House Rocket é uma empresa do ramo imobiliária em que a sua atividad
 
 2.) Uma vez adquiridas esses imóveis, por qual preço devemos revendê-las?
 
-### Premissas
+No final desse projeto será entregue dois arquivos csv sendo que um é com as recomendações de compras e um com a recomendação com quais preços devem ser vendidos os imóveis. Além disso, será entregue um dashboard interativo com acesso a um mapa com os imóveis e os relatórios em csv para acessar de qualquer lugar.
+
+### Premissas de Negócios
+
+* 
+
+
+
