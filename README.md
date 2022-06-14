@@ -12,7 +12,10 @@ No final desse projeto será entregue dois arquivos csv sendo que um é com as r
 
 ### Premissas de Negócios
 
-* 
+Premissas assumidas:
+
+* Os valores iguais a zero na coluna yr_built são imóveis que não foram renovaodos
+* A região dos imóveis em que os imóveis se encontram e 
 
 
 
