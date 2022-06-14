@@ -14,8 +14,11 @@ No final desse projeto será entregue dois arquivos csv sendo que um é com as r
 
 Premissas assumidas:
 
-* Os valores iguais a zero na coluna yr_built são imóveis que não foram renovaodos
-* A região dos imóveis em que os imóveis se encontram e 
+* Os valores iguais a zero na coluna yr_built são imóveis que não foram renovaodos.
+* Os imóveis a serem comprados precisam ter condições maior ou igual a 3 e o seu valor tem que estar abaixo do preço mediano das regiões em que se localizam.
+* A região em que os imóveis estão localizados e a estação do ano foram primordiais para a determinação do preço de venda.
+* Os preços de vendas dos imóveis adquiridos seram estabelecidos da seguinte forma:
+    --  Se o preço de 
 
 
 
