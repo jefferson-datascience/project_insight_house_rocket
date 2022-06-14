@@ -10,6 +10,7 @@ A empresa House Rocket é uma empresa do ramo imobiliária em que a sua atividad
 
 No final desse projeto será entregue dois arquivos csv sendo que um é com as recomendações de compras e um com a recomendação com quais preços devem ser vendidos os imóveis. Além disso, será entregue um dashboard interativo com acesso a um mapa com os imóveis e os relatórios em csv para acessar de qualquer lugar.
 
+
 ## Premissas de Negócios
 
 Premissas assumidas:
@@ -17,18 +18,28 @@ Premissas assumidas:
 * Os valores iguais a zero na coluna yr_built são imóveis que não foram renovados.
 * Os imóveis a serem comprados precisam ter condições maior ou igual a 3 e o seu valor tem que estar abaixo do preço mediano das regiões em que se localizam.
 * A região em que os imóveis estão localizados e a estação do ano foram primordiais para a determinação do preço de venda.
-* Os preços de vendas dos imóveis adquiridos seram estabelecidos da seguinte forma:
+* A coluna condition vai de 0 a 5, sendo que 0 é a pior condição e 5 a melhor condição.
 
-    Se o preço de compra do imóvel for maior que a mediana do preço da região em que ele se localiza, levando em consideração a estação do ano, então o preço de venda será o preço de compra + 10%.
     
-    Se o preço de compra do imóvel for menor que a mediana do preço da região em que ele se localiza, levando em consideração a estação do ano, então o preço de venda será o preço de compra + 30%.
-    
+## Estratégia de Solução
 
+1. Coleta de dados no Kaggle
+2. Entendimento do negócio
+3. Tratamento de dados
+4. Exploração dos dados
+5. Responder as perguntas de negócio
+6. Resultado para o negócio
+7. Conclusão
 
-## Atributos
+## Os 5 principais insights
 
-| ID | Código de identificação do imóvel |
-| date | Preço de venda do imóvel |
- 
+1. Imóveis com vista para a água são, na média, 210% mais caros em relação a imóveis que não tem vista para a água.
+2. Imóveis com data de construção menor que 1955 não necessariamente são 50% mais baratos.
+3. Imóveis com porão não necessariamente são mais caros, na verdade, existem regiões que se tem imóveis sem poraõ muito mais caros.
+4. Imoveis com mais de 2 pisos são mais caros em quase todas as regiões.
+
+## Resultados Finaceiros
+
+| 
 
 
