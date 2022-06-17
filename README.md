@@ -12,6 +12,31 @@ A empresa House Rocket é uma empresa do ramo imobiliária em que a sua atividad
 
 No final desse projeto será entregue dois arquivos csv sendo que um é com as recomendações de compras e um com a recomendação com quais preços devem ser vendidos os imóveis. Além disso, será entregue um dashboard interativo com acesso a um mapa com os imóveis e os relatórios em csv para acessar de qualquer lugar.
 
+## Atributos
+
+|    Atributos    |                         Significado                          |
+| :-------------: | :----------------------------------------------------------: |
+|       id        |       Numeração única de identificação de cada imóvel        |
+|      date       |                    Data da venda da casa                     |
+|      price      |    Preço que a casa está sendo vendida pelo proprietário     |
+|    bedrooms     |                      Número de quartos                       |
+|    bathrooms    | Número de banheiros (0.5 = banheiro em um quarto, mas sem chuveiro) |
+|   sqft_living   | Medida (em pés quadrado) do espaço interior dos apartamentos |
+|    sqft_lot     |     Medida (em pés quadrado) quadrada do espaço terrestre     |
+|     floors      |                 Número de andares do imóvel                  |
+|   waterfront    | Variável que indica a presença ou não de vista para água (0 = não e 1 = sim) |
+|      view       | Um índice de 0 a 4 que indica a qualidade da vista da propriedade. Varia de 0 a 4, onde: 0 = baixa  4 = alta |
+|    condition    | Um índice de 1 a 5 que indica a condição da casa. Varia de 1 a 5, onde: 1 = baixo \|-\| 5 = alta |
+|      grade      | Um índice de 1 a 13 que indica a construção e o design do edifício. Varia de 1 a 13, onde: 1-3 = baixo, 7 = médio e 11-13 = alta |
+|  sqft_basement  | A metragem quadrada do espaço habitacional interior acima do nível do solo |
+|    yr_built     |               Ano de construção de cada imóvel               |
+|  yr_renovated   |                Ano de reforma de cada imóvel                 |
+|     zipcode     |                         CEP da casa                          |
+|       lat       |                           Latitude                           |
+|      long       |                          Longitude                           |
+| sqft_livining15 | Medida (em pés quadrado) do espaço interno de habitação para os 15 vizinhos mais próximo |
+|   sqft_lot15    | Medida (em pés quadrado) dos lotes de terra dos 15 vizinhos mais próximo |
+
 
 ## Premissas de Negócios
 
