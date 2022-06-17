@@ -42,11 +42,8 @@ No final desse projeto será entregue dois arquivos csv sendo que um é com as r
 
 Premissas assumidas:
 
-* Os valores iguais a zero na coluna yr_built são imóveis que não foram renovados.
 * Os imóveis a serem comprados precisam ter condições maior ou igual a 3 e o seu valor tem que estar abaixo do preço mediano das regiões em que se localizam.
 * A região em que os imóveis estão localizados e a estação do ano foram primordiais para a determinação do preço de venda.
-* A coluna condition vai de 0 a 5, sendo que 0 é a pior condição e 5 a melhor condição.
-
     
 ## Estratégia de Solução
 
@@ -66,7 +63,6 @@ Premissas assumidas:
 4. Imoveis com mais de 2 pisos são mais caros em quase todas as regiões.
 
 ## Resultados Finaceiros
-
-| 
-
+| Custo de Aquisição | |
+| Lucro Estimado | |
 
