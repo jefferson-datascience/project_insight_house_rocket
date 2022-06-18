@@ -63,6 +63,8 @@ Premissas assumidas:
 4. Imoveis com mais de 2 pisos são mais caros em quase todas as regiões.
 
 ## Resultados Finaceiros
-| Custo de Aquisição | |
-| Lucro Estimado | |
+|       Custo de Aquisição    |  Retorno Esperado das Vendas |    Lucro Estimado    |
+| :-------------------------: | :--------------------------: | :------------------: |
+|       US$ 4094212008.0      |       US$ 5276791316.98      |   US$ 1182579308.98  |
+
 
