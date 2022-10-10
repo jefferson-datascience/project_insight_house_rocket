@@ -55,7 +55,7 @@ Premissas assumidas:
 6. Resultado para o negócio
 7. Conclusão
 
-## Os 5 principais insights
+## Os 4 principais insights
 
 1. Imóveis com vista para a água são, na média, 210% mais caros em relação a imóveis que não tem vista para a água.
 2. Imóveis com data de construção menor que 1955 não necessariamente são 50% mais baratos.
