@@ -89,7 +89,7 @@ def visualizacao_dados(dataset):
 
 
 def visualizacao_dados_metrics(dataset):
-    
+
     filter_attibutes = st.multiselect('Selecionar Colunas', dataset.columns)
 
     if filter_attibutes:
