@@ -130,3 +130,6 @@ dmypy.json
 
 # files local
 .idea/
+*.name
+*.iml
+*.xml
