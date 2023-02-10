@@ -68,4 +68,4 @@ Premissas assumidas:
 |       US$ 4094212008.0      |       US$ 5276791316.98      |   US$ 1182579308.98  |
 
 
-#### ACESSE OS RESULTADOS DO PROJETO ATRAVÉS DO LINK: https://jefferson-datascience-dashboard-house-rocket-company-app-okc3ea.streamlit.app/
+#### ACESSE OS RESULTADOS DO PROJETO ATRAVÉS DO LINK: https://jefferson-datascience-dashboard-house-rocket-company-app-3k3nq6.streamlit.app/
