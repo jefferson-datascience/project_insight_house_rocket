@@ -70,10 +70,15 @@ Premissas assumidas:
 ## ESTRATÉGIA DE RESOLUÇÃO
 
 **Etapa 00 - Carregamento dos Dados:** Carregamento dos dados e uma breve análise sobre os atributos.
+
 **Etapa 01 - Descrição dos Dados:** Estudo dos atributos, verificação das dimensão dos dados, checagem e remoção de valores nulos, mudança da natureza das variáveis, estudo da estatística descritiva dos dados.
+
 **Etapa 02 - Feature Engineering:** Criação de novas features para resolver o problema de negócio.
+
 **Etapa 03 - Análise Exploratória dos Dados:** Anáise dos preços medianos por região para compra dos imóveis, análise dos precos medianos por sazonalidade para precificação de vendas dos imóveis e estudo aprofundado dos dados para geração de hipóteses de negócio.
+
 **Etapa 04 - Respondedo as questões e as hipóteses de negócios:** Respondendo as questões de negócio, validação das hipóteses, geração de insights e documentação das recomendações de compras, e, de vendas de acordo com a sazonalidade.
+
 **Etapa 05 - Resultados de Negócio:** Criação de tabela com o lucro esperado de acordo com cada sazonalidade, caso todos os imóveis sejam vendidos naquela estação.
 
 
