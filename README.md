@@ -137,3 +137,4 @@ Para acessar o Dashboard do projeto e o notebook com os códigos do projeto dese
 
 **NoteBook com os códigos e desenvolvimentos:** [Notebook House Rocket](https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/project_insight_house_rocket.ipynb)
 
+**Código do Desenvolvimento do Dashboard**: [Código do Dashboard](https://github.com/jefferson-datascience/dashboard_starjeans/blob/main/app_starjeans.py)
