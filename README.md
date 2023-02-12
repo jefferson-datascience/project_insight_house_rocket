@@ -99,7 +99,7 @@ Em geral essa afirmação é falsa. Em termos de ano de construção, ela possue
 
 ##### Afirmação 3: Imóveis com porão são 50% mais caros na média.
 
-Essa afirmação é falsa. Observe que o preço mediano dos imóveis é R$ 450000.0, todavia o preço mediano dos imóveis sem porão é de R$ 411.500,00 e o preço mediano dos imóveis com porão R$ 515.000,00. O interessante é que conseguimos extrair um insight relevante: Imóveis com porão é uma boa opção de negócio, uma vez que o seu valor é, na média, R$ 100.000,00 mais caro.
+Essa afirmação é falsa. Observe que o preço mediano dos imóveis é R$ 450.000,00, todavia o preço mediano dos imóveis sem porão é de R$ 411.500,00 e o preço mediano dos imóveis com porão R$ 515.000,00. O interessante é que conseguimos extrair um insight relevante: Imóveis com porão é uma boa opção de negócio, uma vez que o seu valor é, na média, R$ 100.000,00 mais caro.
 
 <img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/dashboard/hipotese_3.png" alt="logo" style="zoom: 100%;" />
 
@@ -120,7 +120,7 @@ Essa afirmação é verdadeira. Observe que o preço mediano dos imóveis é R$ 
 
 |           Custo de Aquisição      |   Retorno Esperado das Vendas  |     Lucro Estimado       |
 |     :-------------------------:   |  :--------------------------:  |   :------------------:   |
-|       US$ 4.094.212.008,00        |        US$ 5.276.791.316,98    |    US$ 1.182.579.308,98  |
+|       R$ 4.094.212.008,00         |         R$ 5.276.791.316,98    |    R$ 1.182.579.308,98   |
 
 ## PRÓXIMOS PASSOS
 
