@@ -89,31 +89,31 @@ Premissas assumidas:
 
 Em geral essa afirmação é falsa. A mediana dos preços é de R$ 450.000,00. Além disso, conseguimos observar que Imóveis com vista para a água possuem um preço mediano de R$ 1.400.000,00, logo, concluímos que imóveis com vista para água são, na média, 300% mais caro. Logo, o insight gerado aqui é: Imóveis com vista para a água são uma ótima opção de investimento.
 
-<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/dashboard/hipotese_1.png" alt="logo" style="zoom: 90%;" />
+<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/images/hipotese_1.png" alt="logo" style="zoom: 90%;" />
 
 ##### Afirmação 2: Imóveis com data de construção menor que 1955 são 50% mais baratos, na média, em relação a imóveis com construção maior que 1955.
 
 Em geral essa afirmação é falsa. Em termos de ano de construção, ela possuem a mediana de preço praticamente iguais. Uma vez que a mediana dos preços é de R$ 450.000,00, imóveis com ano de construção menor que 1955 possuem uma mediana de preços de R$452.000,00 e imóveis com ano de construção maior que 1955 possuem uma mediana de preços de R$ 450.000,00
 
-<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/dashboard/hipotese_2.png" alt="logo" style="zoom: 100%;" />
+<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/images/hipotese_2.png" alt="logo" style="zoom: 100%;" />
 
 ##### Afirmação 3: Imóveis com porão são 50% mais caros na média.
 
 Essa afirmação é falsa. Observe que o preço mediano dos imóveis é R$ 450.000,00, todavia o preço mediano dos imóveis sem porão é de R$ 411.500,00 e o preço mediano dos imóveis com porão R$ 515.000,00. O interessante é que conseguimos extrair um insight relevante: Imóveis com porão é uma boa opção de negócio, uma vez que o seu valor é, na média, R$ 100.000,00 mais caro.
 
-<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/dashboard/hipotese_3.png" alt="logo" style="zoom: 100%;" />
+<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/images/hipotese_3.png" alt="logo" style="zoom: 100%;" />
 
 ##### Afirmação 4: Imóveis com mais de 2 pisos são em média, 40 % mais caros.
 
 Essa afirmação é falsa. Observe que o preço mediano dos imóveis é R$ 450.000,00, todavia o preço mediano dos imóveis com mais de dois andares é de R$ 527.600,00 e o preço mediano  dos imóveis com menos de dois andares R$ 449.950,00. O interessante é que conseguimos extrair um insight relevante: Imóveis com mais de dois andares é uma boa opção de negócio, uma vez que o seu valor é, na média, R$ 80.000,00 mais caro.
 
-<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/dashboard/hipotese_4.png" alt="logo" style="zoom: 100%;" />
+<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/images/hipotese_4.png" alt="logo" style="zoom: 100%;" />
 
 ##### Afirmação 5:  Imóveis com condições abaixo de 3 são, na média, 35% mais baratos.
 
 Essa afirmação é verdadeira. Observe que o preço mediano dos imóveis é R$ 450.000,00, todavia o preço mediano dos imóveis com condição abaixo  de 3 é de R$ 277.000,00 e o preço mediano  dos imóveis com menos de dois andares R$ 451.000,00. O interessante é que conseguimos extrair um insight relevante: Imóveis com condições abaixo de 3 podem ser um boa opção de negócio, uma vez que o seu valor é, na média, R$ 150.000,00 mais barato que a média do preço geral. Entretanto, seria primordial saber o custo de reforma de um imóvel nessa situação para saber se vale a pena, de fato, investir em imóveis dessa natureza.
 
-<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/dashboard/hipotese_5.png" alt="logo" style="zoom: 100%;" />
+<img src="https://github.com/jefferson-datascience/project_insight_house_rocket/blob/main/images/hipotese_5.png" alt="logo" style="zoom: 100%;" />
 
 
 ## RESULTADOS FINANCEIROS
