@@ -66,6 +66,14 @@ Premissas assumidas:
 
 * Os imóveis a serem comprados precisam ter condições maior ou igual a 3 e o seu valor tem que estar abaixo do preço mediano das regiões em que se localizam.
 * A região em que os imóveis estão localizados e a estação do ano foram primordiais para a determinação do preço de venda.
+
+### Ferramentas Utilizadas
+
+- Python 3.9
+- Jupyter Notebook
+- Metodologia CRISP-DM
+- Git 
+- Framework Streamlit
     
 ## ESTRATÉGIA DE RESOLUÇÃO
 
